@@ -1,0 +1,18 @@
+---
+title: "Emily (Ping-Jen) Su"
+---
+
+Welcome to the personal website for Ping-Jen (Emily) Su!
+
+Navigate below for bio and Resume/CV.
+
+Feel free to reach out using the information from the contact tab, if there are any questions!
+
+
+## Bio
+
+Hi! I am a current 3rd year student at the University of Toronto double majoring in Statistics and Cognitive Science (Computational Cognition Stream). While taking the various courses required for Cognitive science I have discovered strong interest in Business, Linguistics, and AI. To which I am looking for related research, interships, and experience related. 
+
+## Resume/CV
+
+[Resume](inputs/Resume Updated.pdf)

@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Personal Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - contact.qmd
+      
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+editor: visual
+
